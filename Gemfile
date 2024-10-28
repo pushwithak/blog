@@ -2,9 +2,8 @@
 
 source 'https://rubygems.org'
 
-# Jekyll and theme
-gem 'jekyll', '~> 4.2.0'
-gem 'jekyll-theme-chirpy', '~> 7.1', '>= 7.1.1'
+# This gem includes all the dependencies that GitHub Pages needs
+gem 'github-pages', group: :jekyll_plugins
 
 # For testing HTML output
 group :test do
