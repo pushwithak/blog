@@ -1,0 +1,18 @@
+lang: en
+timezone: Pacific/Auckland
+title: O so techie
+tagline: Technical Specialist | Smart Home Enthusiast | Full Time Tinkerer | 🇳🇿  
+description: >- 
+  The ramblings of my adventures into all things technical, both from a personal and work life perspecitve. Expect everything from topics about Smart Home Automation and Home Labbing, to DevOps and AI (all personal interests) to more work related content around evertyhing Microsoft.
+
+url: "https://osotechie.com"
+github:
+  username: osotechie 
+twitter:
+  username: nz_O_ 
+social:
+  name: O so techie
+  links:
+    - https://twitter.com/nz_O_ 
+    - https://github.com/osotechie 
+    - https://www.linkedin.com/in/owendemooy
